@@ -36,7 +36,7 @@
 
 ### 🐍 Katkı Grafiğim
 <p align="center">
-  <img src="https://github.com/shzany/shzany/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Shzany/Shzany/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
