@@ -35,10 +35,7 @@
 ---
 
 ### 🐍 Katkı Grafiğim
-<p align="center">
-  <img src="https://github.com/Shzany/Shzany/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
+<p align="center">![snake gif](https://github.com/shzany/shzany/blob/output/snake.svg)</p>
 ---
 
 ### 📫 Bana Ulaş
