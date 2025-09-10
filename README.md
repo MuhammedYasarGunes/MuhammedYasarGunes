@@ -35,7 +35,11 @@
 ---
 
 ### 🐍 Katkı Grafiğim
-<p align="center">![snake gif](https://github.com/shzany/shzany/blob/output/snake.svg)</p>
+
+<p align="center">
+  <img src="https://github.com/shzany/shzany/blob/output/snake.svg" alt="snake gif"/>
+</p>
+
 ---
 
 ### 📫 Bana Ulaş
