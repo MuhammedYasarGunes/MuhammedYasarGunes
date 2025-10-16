@@ -20,8 +20,6 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/HTMX-3366FF?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white" />
 </p>
 
 ---
