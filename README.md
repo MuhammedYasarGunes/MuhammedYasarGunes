@@ -1,6 +1,6 @@
 <!-- Profil README -->
 
-<h1 align="center">Muhammed</h1>
+<h1 align="center">Muhammed Yaşar</h1>
 <h3 align="center">Bilgisayar Mühendisliği | AI Systems | Robotics | Full-Stack Development</h3>
 
 ---
@@ -46,8 +46,8 @@
 
 ### 📊 GitHub istatistikleri
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shzany&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shzany&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedYasarGunes&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedYasarGunes&layout=compact&theme=radical" height="165"/>
 </p>
 
 ---
