@@ -46,7 +46,7 @@
 
 ### 📊 GitHub istatistikleri
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedYasarGunes&show_icons=true&cache_seconds=86400" />
+  <img src="https://ghstats.dev/api/card?username=MuhammedYasarGunes" />
 </p>
 
 ---
