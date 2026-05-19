@@ -46,7 +46,7 @@
 
 ### 📊 GitHub istatistikleri
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shzany&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedYasarGunes&show_icons=true&cache_seconds=86400" />
 </p>
 
 ---
