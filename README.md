@@ -1,78 +1,30 @@
-<!-- Profil README -->
+# Hi, I'm Muhammed Yaşar Güneş 👋
 
-<h1 align="center">Muhammed Yaşar</h1>
-<h3 align="center">Bilgisayar Mühendisliği | AI Systems | Robotics | Full-Stack Development</h3>
+**Python backend developer (Django · FastAPI)** and final-year Computer Engineering student at Fırat University, Türkiye (graduating June 2027). I build tested, documented web backends and ship them with Docker and PostgreSQL.
 
----
+📫 Open to **part-time / remote junior backend roles** and **long-term internships** · muhammetyasargunes42@gmail.com · [LinkedIn](https://www.linkedin.com/in/muhammed-yasar-gunes/)
 
-### 🧭 Profil
-- Odak: **Yapay zeka sistemleri, robotik kontrol ve otonom sistemler**
-- Çalışma alanı: **Reinforcement Learning, Computer Vision, Backend Systems**
-- Yaklaşım: Teori değil, **çalışan sistem üretmek**
-- Uzun vadeli hedef: **Gerçek dünyada çalışan otonom yapay zeka ajanları geliştirmek**
+## Featured work
 
----
+| Project | What it is | Stack |
+|---|---|---|
+| [**Karabağlar SK website**](https://github.com/MuhammedYasarGunes/KarabaglarSK-Website) | Live website of an amateur sports club in İzmir ([karabaglaratletiksk.com](https://karabaglaratletiksk.com)): custom admin dashboard, Cloudinary gallery, JSON API, pytest suite on GitHub Actions. The same codebase also powers the sites of two other clubs ([K. Bulut SK](https://github.com/MuhammedYasarGunes/KBulutSk-Website), [Sevgispor](https://github.com/MuhammedYasarGunes/SevgiSK-Website)). | Django · PostgreSQL · Docker · Nginx |
+| [**AI-assisted course platform**](https://github.com/MuhammedYasarGunes/AI-Destekli-Kurs-Platformu-Python-Django) | Course and content platform that drafts lessons with Google Gemini; REST API with Swagger docs. | Django · DRF · Gemini |
+| [**Nova**](https://github.com/MuhammedYasarGunes/Nova) | Local AI agent: an LLM routes each request to a tool or to chat, with semantic memory in ChromaDB. Runs fully offline on Ollama. | Python · Ollama · ChromaDB |
+| [**PricePrediction**](https://github.com/MuhammedYasarGunes/PricePrediction) | Team project: daily sales forecasting for 1,115 Rossmann stores. Leak-free data preparation and exploratory analysis. | Python · pandas · matplotlib |
 
-### 🧠 Şu an odaklandığım konular
-- Django + REST API mimarisi (ölçeklenebilir backend)
-- HTMX + Tailwind (hafif ve modern frontend yaklaşımları)
-- Reinforcement Learning temelleri ve simülasyon ortamları
-- Unity / simulation-based robotics environments
-- Embedded sistemler (ESP32, IoT, sensör tabanlı sistemler)
+## Now
 
----
+- Designing **YurtAPP**: roommate matching and room planning for private dormitories
+- Final year at Fırat University, Computer Engineering
 
-### 🛠️ Teknoloji yığını
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-005571?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTMX-3366FF?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white" />
-</p>
+## Tech
 
----
-
-### ⚙️ Proje yaklaşımım
-- Monolitik değil, **modüler ve servis tabanlı mimari**
-- Hızlı prototip → test → iterasyon döngüsü
-- Gereksiz kompleksite yerine **ölçülebilir sistem tasarımı**
-- AI projelerinde: sadece model değil, **uçtan uca sistem**
-
----
-
-### 📊 GitHub istatistikleri
-<p align="center">
-  <img src="https://ghstats.dev/api/card?username=MuhammedYasarGunes" />
-</p>
-
----
-
-### 🐍 Katkı grafiği
-<p align="center">
-  <img src="https://github.com/shzany/shzany/blob/output/snake.svg" />
-</p>
-
----
-
-### 📫 İletişim
-<p align="center">
-  <a href="mailto:muhammetyasargunes42@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/muhammed-yasar-gunes">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/shzany">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  </a>
-</p>
-
----
+- **Backend:** Python, Django, Django REST Framework, FastAPI, PostgreSQL, pytest
+- **Deployment:** Docker, Docker Compose, Nginx, Gunicorn, Linux, Railway
+- **AI / ML:** PyTorch, Hugging Face Transformers, scikit-learn, pandas, Ollama
+- **Frontend:** JavaScript, HTML/CSS
 
 <p align="center">
-  “Sistem kurmayan, sadece kod yazan mühendis değildir; mühendislik ürün inşa etmektir.”
+  <img src="https://raw.githubusercontent.com/MuhammedYasarGunes/MuhammedYasarGunes/output/snake.svg" alt="Contribution snake" />
 </p>

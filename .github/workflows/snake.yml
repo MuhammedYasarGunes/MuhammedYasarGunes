@@ -8,18 +8,20 @@ on:
     branches:
       - main
 
+# output dalına snake.svg yazabilmek için
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
       - name: Generate snake
         uses: Platane/snk@v3
         with:
-          github_user_name: shzany
+          # Eski kullanıcı adı (shzany) artık yok; repo sahibinin adı kullanılır
+          github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
 
       - name: Push snake.svg to output branch
